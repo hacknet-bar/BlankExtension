@@ -10,6 +10,6 @@
 
 ## Guide
 
-Please read the [document]: https://docs.hacknet-bar.cn/extension
+Please read the [document](https://docs.hacknet-bar.cn/extension)
 
    
